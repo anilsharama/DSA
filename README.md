@@ -6,6 +6,7 @@ java
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anilsharama/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/anilsharama/DSA/tree/master/0015-3sum) |
 ## Two Pointers
 |  |
@@ -15,4 +16,8 @@ java
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anilsharama/DSA/tree/master/0015-3sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/anilsharama/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
