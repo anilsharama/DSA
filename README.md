@@ -9,6 +9,7 @@ java
 | [0001-two-sum](https://github.com/anilsharama/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/anilsharama/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anilsharama/DSA/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/anilsharama/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,4 +24,8 @@ java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anilsharama/DSA/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/anilsharama/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
