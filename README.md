@@ -16,6 +16,7 @@ java
 | [0015-3sum](https://github.com/anilsharama/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anilsharama/DSA/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anilsharama/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0392-is-subsequence](https://github.com/anilsharama/DSA/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -37,6 +38,7 @@ java
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anilsharama/DSA/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/anilsharama/DSA/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -45,6 +47,7 @@ java
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anilsharama/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0392-is-subsequence](https://github.com/anilsharama/DSA/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
