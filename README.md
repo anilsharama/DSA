@@ -38,6 +38,7 @@ java
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anilsharama/DSA/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/anilsharama/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/anilsharama/DSA/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
@@ -52,4 +53,8 @@ java
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anilsharama/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/anilsharama/DSA/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
