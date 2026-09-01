@@ -12,6 +12,7 @@ java
 | [0033-search-in-rotated-sorted-array](https://github.com/anilsharama/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/anilsharama/DSA/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/anilsharama/DSA/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anilsharama/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@ java
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anilsharama/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anilsharama/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +72,7 @@ java
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/anilsharama/DSA/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/anilsharama/DSA/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anilsharama/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
