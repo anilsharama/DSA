@@ -10,6 +10,7 @@ java
 | [0015-3sum](https://github.com/anilsharama/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anilsharama/DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anilsharama/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/anilsharama/DSA/tree/master/0045-jump-game-ii) |
 | [0566-reshape-the-matrix](https://github.com/anilsharama/DSA/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/anilsharama/DSA/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anilsharama/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -43,6 +44,7 @@ java
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anilsharama/DSA/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/anilsharama/DSA/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/anilsharama/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/anilsharama/DSA/tree/master/0392-is-subsequence) |
@@ -94,4 +96,8 @@ java
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/anilsharama/DSA/tree/master/1025-divisor-game) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/anilsharama/DSA/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
