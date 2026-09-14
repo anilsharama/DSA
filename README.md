@@ -40,6 +40,7 @@ java
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anilsharama/DSA/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/anilsharama/DSA/tree/master/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/anilsharama/DSA/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
@@ -59,6 +60,7 @@ java
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anilsharama/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/anilsharama/DSA/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/anilsharama/DSA/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
 | ------- |
@@ -82,6 +84,7 @@ java
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/anilsharama/DSA/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/anilsharama/DSA/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/anilsharama/DSA/tree/master/0867-transpose-matrix) |
 ## Brainteaser
