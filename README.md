@@ -40,6 +40,7 @@ java
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anilsharama/DSA/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/anilsharama/DSA/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/anilsharama/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/anilsharama/DSA/tree/master/0415-add-strings) |
 | [1025-divisor-game](https://github.com/anilsharama/DSA/tree/master/1025-divisor-game) |
