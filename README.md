@@ -12,6 +12,7 @@ java
 | [0033-search-in-rotated-sorted-array](https://github.com/anilsharama/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/anilsharama/DSA/tree/master/0045-jump-game-ii) |
 | [0189-rotate-array](https://github.com/anilsharama/DSA/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anilsharama/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/anilsharama/DSA/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/anilsharama/DSA/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anilsharama/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -38,6 +39,7 @@ java
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anilsharama/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anilsharama/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anilsharama/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
@@ -87,6 +89,7 @@ java
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/anilsharama/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/anilsharama/DSA/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/anilsharama/DSA/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anilsharama/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -114,4 +117,8 @@ java
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/anilsharama/DSA/tree/master/0045-jump-game-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/anilsharama/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
