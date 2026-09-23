@@ -49,6 +49,7 @@ java
 | [0189-rotate-array](https://github.com/anilsharama/DSA/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/anilsharama/DSA/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/anilsharama/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anilsharama/DSA/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/anilsharama/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/anilsharama/DSA/tree/master/0415-add-strings) |
 | [1025-divisor-game](https://github.com/anilsharama/DSA/tree/master/1025-divisor-game) |
@@ -82,6 +83,7 @@ java
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/anilsharama/DSA/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/anilsharama/DSA/tree/master/0342-power-of-four) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/anilsharama/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Enumeration
 |  |
@@ -126,4 +128,5 @@ java
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/anilsharama/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anilsharama/DSA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
