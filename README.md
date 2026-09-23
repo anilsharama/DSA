@@ -47,6 +47,7 @@ java
 | [0070-climbing-stairs](https://github.com/anilsharama/DSA/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/anilsharama/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/anilsharama/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/anilsharama/DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/anilsharama/DSA/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/anilsharama/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anilsharama/DSA/tree/master/0342-power-of-four) |
@@ -82,6 +83,7 @@ java
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/anilsharama/DSA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/anilsharama/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/anilsharama/DSA/tree/master/0342-power-of-four) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/anilsharama/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -127,6 +129,7 @@ java
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/anilsharama/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anilsharama/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anilsharama/DSA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
