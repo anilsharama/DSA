@@ -140,4 +140,8 @@ java
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anilsharama/DSA/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/anilsharama/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
