@@ -40,6 +40,7 @@ java
 | ------- |
 | [0001-two-sum](https://github.com/anilsharama/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/anilsharama/DSA/tree/master/0217-contains-duplicate) |
+| [3945-digit-frequency-score](https://github.com/anilsharama/DSA/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ java
 | [0415-add-strings](https://github.com/anilsharama/DSA/tree/master/0415-add-strings) |
 | [1025-divisor-game](https://github.com/anilsharama/DSA/tree/master/1025-divisor-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/anilsharama/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3945-digit-frequency-score](https://github.com/anilsharama/DSA/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
 | ------- |
