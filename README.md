@@ -41,6 +41,7 @@ java
 | ------- |
 | [0001-two-sum](https://github.com/anilsharama/DSA/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/anilsharama/DSA/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/anilsharama/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/anilsharama/DSA/tree/master/0217-contains-duplicate) |
 | [3945-digit-frequency-score](https://github.com/anilsharama/DSA/tree/master/3945-digit-frequency-score) |
 ## Binary Search
@@ -85,6 +86,7 @@ java
 | [0014-longest-common-prefix](https://github.com/anilsharama/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anilsharama/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/anilsharama/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0208-implement-trie-prefix-tree](https://github.com/anilsharama/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0392-is-subsequence](https://github.com/anilsharama/DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/anilsharama/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/anilsharama/DSA/tree/master/0415-add-strings) |
@@ -148,6 +150,7 @@ java
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anilsharama/DSA/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/anilsharama/DSA/tree/master/0208-implement-trie-prefix-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -176,4 +179,8 @@ java
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/anilsharama/DSA/tree/master/0202-happy-number) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/anilsharama/DSA/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
