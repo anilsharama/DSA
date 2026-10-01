@@ -27,6 +27,7 @@ java
 | [0018-4sum](https://github.com/anilsharama/DSA/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anilsharama/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/anilsharama/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/anilsharama/DSA/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/anilsharama/DSA/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
@@ -39,6 +40,7 @@ java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anilsharama/DSA/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/anilsharama/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/anilsharama/DSA/tree/master/0217-contains-duplicate) |
 | [3945-digit-frequency-score](https://github.com/anilsharama/DSA/tree/master/3945-digit-frequency-score) |
 ## Binary Search
@@ -53,6 +55,7 @@ java
 | [0070-climbing-stairs](https://github.com/anilsharama/DSA/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/anilsharama/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/anilsharama/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/anilsharama/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/anilsharama/DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/anilsharama/DSA/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/anilsharama/DSA/tree/master/0326-power-of-three) |
@@ -169,4 +172,8 @@ java
 | ------- |
 | [0100-same-tree](https://github.com/anilsharama/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anilsharama/DSA/tree/master/0101-symmetric-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/anilsharama/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
