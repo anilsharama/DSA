@@ -18,6 +18,7 @@ java
 | [0240-search-a-2d-matrix-ii](https://github.com/anilsharama/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/anilsharama/DSA/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/anilsharama/DSA/tree/master/0867-transpose-matrix) |
+| [0989-add-to-array-form-of-integer](https://github.com/anilsharama/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anilsharama/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/anilsharama/DSA/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
@@ -64,6 +65,7 @@ java
 | [0412-fizz-buzz](https://github.com/anilsharama/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/anilsharama/DSA/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/anilsharama/DSA/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/anilsharama/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/anilsharama/DSA/tree/master/1025-divisor-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/anilsharama/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3945-digit-frequency-score](https://github.com/anilsharama/DSA/tree/master/3945-digit-frequency-score) |
