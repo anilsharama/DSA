@@ -59,6 +59,7 @@ java
 | [0189-rotate-array](https://github.com/anilsharama/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/anilsharama/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/anilsharama/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/anilsharama/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/anilsharama/DSA/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/anilsharama/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anilsharama/DSA/tree/master/0342-power-of-four) |
@@ -121,6 +122,7 @@ java
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/anilsharama/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/anilsharama/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/anilsharama/DSA/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/anilsharama/DSA/tree/master/0566-reshape-the-matrix) |
@@ -189,4 +191,8 @@ java
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/anilsharama/DSA/tree/master/0208-implement-trie-prefix-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/anilsharama/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
