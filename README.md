@@ -12,6 +12,7 @@ java
 | [0018-4sum](https://github.com/anilsharama/DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anilsharama/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/anilsharama/DSA/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/anilsharama/DSA/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anilsharama/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/anilsharama/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anilsharama/DSA/tree/master/0217-contains-duplicate) |
@@ -55,6 +56,7 @@ java
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anilsharama/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/anilsharama/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anilsharama/DSA/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/anilsharama/DSA/tree/master/0168-excel-sheet-column-title) |
@@ -116,6 +118,7 @@ java
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anilsharama/DSA/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anilsharama/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/anilsharama/DSA/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/anilsharama/DSA/tree/master/0867-transpose-matrix) |
