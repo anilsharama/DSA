@@ -17,6 +17,7 @@ java
 | [0189-rotate-array](https://github.com/anilsharama/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anilsharama/DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anilsharama/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/anilsharama/DSA/tree/master/0268-missing-number) |
 | [0566-reshape-the-matrix](https://github.com/anilsharama/DSA/tree/master/0566-reshape-the-matrix) |
 | [0598-range-addition-ii](https://github.com/anilsharama/DSA/tree/master/0598-range-addition-ii) |
 | [0867-transpose-matrix](https://github.com/anilsharama/DSA/tree/master/0867-transpose-matrix) |
@@ -38,6 +39,7 @@ java
 | [0015-3sum](https://github.com/anilsharama/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anilsharama/DSA/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/anilsharama/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/anilsharama/DSA/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/anilsharama/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
@@ -46,6 +48,7 @@ java
 | [0202-happy-number](https://github.com/anilsharama/DSA/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/anilsharama/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/anilsharama/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/anilsharama/DSA/tree/master/0268-missing-number) |
 | [3945-digit-frequency-score](https://github.com/anilsharama/DSA/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
@@ -53,6 +56,7 @@ java
 | [0033-search-in-rotated-sorted-array](https://github.com/anilsharama/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/anilsharama/DSA/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anilsharama/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/anilsharama/DSA/tree/master/0268-missing-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anilsharama/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
@@ -66,6 +70,7 @@ java
 | [0231-power-of-two](https://github.com/anilsharama/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/anilsharama/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/anilsharama/DSA/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/anilsharama/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/anilsharama/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anilsharama/DSA/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/anilsharama/DSA/tree/master/0412-fizz-buzz) |
@@ -111,6 +116,7 @@ java
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/anilsharama/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/anilsharama/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/anilsharama/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/anilsharama/DSA/tree/master/0342-power-of-four) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/anilsharama/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
