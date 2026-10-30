@@ -94,6 +94,7 @@ java
 | [0392-is-subsequence](https://github.com/anilsharama/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/anilsharama/DSA/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/anilsharama/DSA/tree/master/1025-divisor-game) |
+| [1668-maximum-repeating-substring](https://github.com/anilsharama/DSA/tree/master/1668-maximum-repeating-substring) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/anilsharama/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Memoization
 |  |
@@ -111,10 +112,12 @@ java
 | [0392-is-subsequence](https://github.com/anilsharama/DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/anilsharama/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/anilsharama/DSA/tree/master/0415-add-strings) |
+| [1668-maximum-repeating-substring](https://github.com/anilsharama/DSA/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anilsharama/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1668-maximum-repeating-substring](https://github.com/anilsharama/DSA/tree/master/1668-maximum-repeating-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
