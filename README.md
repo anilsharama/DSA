@@ -14,6 +14,7 @@ java
 | [0045-jump-game-ii](https://github.com/anilsharama/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/anilsharama/DSA/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anilsharama/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anilsharama/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/anilsharama/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anilsharama/DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anilsharama/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -65,6 +66,7 @@ java
 | [0048-rotate-image](https://github.com/anilsharama/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/anilsharama/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anilsharama/DSA/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anilsharama/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/anilsharama/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/anilsharama/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/anilsharama/DSA/tree/master/0202-happy-number) |
@@ -223,4 +225,8 @@ java
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/anilsharama/DSA/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anilsharama/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
