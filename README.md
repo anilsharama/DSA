@@ -59,6 +59,7 @@ java
 | [0240-search-a-2d-matrix-ii](https://github.com/anilsharama/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anilsharama/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/anilsharama/DSA/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/anilsharama/DSA/tree/master/0441-arranging-coins) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anilsharama/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
@@ -80,6 +81,7 @@ java
 | [0367-valid-perfect-square](https://github.com/anilsharama/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/anilsharama/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/anilsharama/DSA/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/anilsharama/DSA/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/anilsharama/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/anilsharama/DSA/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/anilsharama/DSA/tree/master/0598-range-addition-ii) |
