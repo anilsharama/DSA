@@ -19,6 +19,7 @@ java
 | [0217-contains-duplicate](https://github.com/anilsharama/DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anilsharama/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anilsharama/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/anilsharama/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0566-reshape-the-matrix](https://github.com/anilsharama/DSA/tree/master/0566-reshape-the-matrix) |
 | [0598-range-addition-ii](https://github.com/anilsharama/DSA/tree/master/0598-range-addition-ii) |
 | [0867-transpose-matrix](https://github.com/anilsharama/DSA/tree/master/0867-transpose-matrix) |
@@ -33,6 +34,7 @@ java
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anilsharama/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/anilsharama/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/anilsharama/DSA/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/anilsharama/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/anilsharama/DSA/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
@@ -41,6 +43,7 @@ java
 | [0018-4sum](https://github.com/anilsharama/DSA/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/anilsharama/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anilsharama/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/anilsharama/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/anilsharama/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
@@ -50,6 +53,7 @@ java
 | [0208-implement-trie-prefix-tree](https://github.com/anilsharama/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/anilsharama/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anilsharama/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/anilsharama/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [3945-digit-frequency-score](https://github.com/anilsharama/DSA/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
@@ -59,6 +63,7 @@ java
 | [0240-search-a-2d-matrix-ii](https://github.com/anilsharama/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anilsharama/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/anilsharama/DSA/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/anilsharama/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/anilsharama/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/anilsharama/DSA/tree/master/0441-arranging-coins) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anilsharama/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
