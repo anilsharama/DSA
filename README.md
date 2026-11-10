@@ -25,6 +25,7 @@ java
 | [0598-range-addition-ii](https://github.com/anilsharama/DSA/tree/master/0598-range-addition-ii) |
 | [0867-transpose-matrix](https://github.com/anilsharama/DSA/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/anilsharama/DSA/tree/master/0892-surface-area-of-3d-shapes) |
+| [0896-monotonic-array](https://github.com/anilsharama/DSA/tree/master/0896-monotonic-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/anilsharama/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anilsharama/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/anilsharama/DSA/tree/master/1672-richest-customer-wealth) |
