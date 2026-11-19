@@ -21,6 +21,7 @@ java
 | [0268-missing-number](https://github.com/anilsharama/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anilsharama/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anilsharama/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anilsharama/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0566-reshape-the-matrix](https://github.com/anilsharama/DSA/tree/master/0566-reshape-the-matrix) |
 | [0598-range-addition-ii](https://github.com/anilsharama/DSA/tree/master/0598-range-addition-ii) |
 | [0867-transpose-matrix](https://github.com/anilsharama/DSA/tree/master/0867-transpose-matrix) |
@@ -96,6 +97,7 @@ java
 | [0412-fizz-buzz](https://github.com/anilsharama/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/anilsharama/DSA/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/anilsharama/DSA/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anilsharama/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/anilsharama/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/anilsharama/DSA/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/anilsharama/DSA/tree/master/0598-range-addition-ii) |
