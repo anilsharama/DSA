@@ -104,6 +104,7 @@ java
 | [0892-surface-area-of-3d-shapes](https://github.com/anilsharama/DSA/tree/master/0892-surface-area-of-3d-shapes) |
 | [0989-add-to-array-form-of-integer](https://github.com/anilsharama/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/anilsharama/DSA/tree/master/1025-divisor-game) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/anilsharama/DSA/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3536-maximum-product-of-two-digits](https://github.com/anilsharama/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3945-digit-frequency-score](https://github.com/anilsharama/DSA/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
