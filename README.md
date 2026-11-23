@@ -14,6 +14,7 @@ java
 | [0039-combination-sum](https://github.com/anilsharama/DSA/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/anilsharama/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/anilsharama/DSA/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/anilsharama/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anilsharama/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anilsharama/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/anilsharama/DSA/tree/master/0189-rotate-array) |
@@ -112,6 +113,7 @@ java
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/anilsharama/DSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/anilsharama/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/anilsharama/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anilsharama/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/anilsharama/DSA/tree/master/0338-counting-bits) |
@@ -192,6 +194,7 @@ java
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/anilsharama/DSA/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anilsharama/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Recursion
 |  |
